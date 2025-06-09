@@ -77,6 +77,7 @@ This is a simple turn-based Tic-Tac-Toe game built with Laravel. It allows two p
 2. Run `composer install` to install dependencies.
 3. Copy `.env.example` to `.env` and run `php artisan key:generate`.
 4. Start the server:
+
    bash
    php artisan serve
 
